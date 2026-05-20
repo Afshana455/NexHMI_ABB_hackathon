@@ -1,4 +1,4 @@
-# NexHMI — Next-Generation Industrial Control System Interface
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/53f7c43d-9b1c-42c5-aea8-27c9470f716d" /># NexHMI — Next-Generation Industrial Control System Interface
 ### The right information. The right person. The right time.
 
 An AI-powered, plug-and-play smart HMI framework for small-scale industrial automation. NexHMI connects to any industrial hardware, configures itself from a plain English description, and generates purpose-built interfaces for every role in your organisation automatically.
@@ -49,6 +49,8 @@ NexHMI's Serial Connector module reads this stream, parses it into a normalised 
 | Solid State Relay (SSR) | Silent, wear-free switching for the heating element |
 | SMPS Power Supply | Stable regulated DC for all electronic modules |
 | TTL-to-USB Converter | Serial communication bridge between STM32 and laptop |
+
+
 
 ## Key Features
 ### MDL Engine — Machine Description Language
@@ -160,3 +162,4 @@ When the dashboard loads it calls GET /api/config/signals, receives the signal s
 | Training Environment | Jupyter Notebook | One-time offline model training |
 | Version Control | Git + GitHub | Code management |
 | Development | VS Code + Python 3.11 | Primary development environment |
+
